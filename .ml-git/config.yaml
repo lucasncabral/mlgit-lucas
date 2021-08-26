@@ -1,10 +1,10 @@
 batch_size: 20
 datasets:
-  git: https://github.com/lucasncabral/mlgit-datasets.git
+  git: git@github.com:lucasncabral/mlgit-datasets.git
 labels:
-  git: https://github.com/lucasncabral/mlgit-labels.git
+  git: git@github.com:lucasncabral/mlgit-datasets.git
 models:
-  git: https://github.com/lucasncabral/mlgit-models.git
+  git: git@github.com:lucasncabral/mlgit-datasets.git
 storages:
   s3h:
     mlgit-bucket:
